@@ -1,3 +1,3 @@
 Now i want to make my 2nd commit
-now i want to make my 3rd commit
+now i want to make my 3rd commit form main branch
 Now i am doing changes through feature-greeting branch
